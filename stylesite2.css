@@ -1,6 +1,7 @@
 body{
   background-image: url(2bg.jpg);
   background-size: 100%;
+  background-attachment: fixed;
 }
 h1{
     color:aliceblue;

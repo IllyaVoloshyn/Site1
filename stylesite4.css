@@ -1,6 +1,7 @@
 body{
   background-image: url(4bg.jpg);
-  background-size: 100%
+  background-size: 100%;
+  background-attachment: fixed;
 }
 a{
     font-size: 50px;
