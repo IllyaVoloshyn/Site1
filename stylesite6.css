@@ -1,0 +1,26 @@
+body{
+  background-image: url(vrs.jpg);
+  background-size: 100%
+}
+h1{
+    color:aliceblue;
+    text-align: center;
+    font-size: 80px;
+    background-color: rgba(0,0,0,0.7);
+}
+p1{
+    color:aliceblue;
+    text-align: left;
+    font-size: 45px;
+    background-color: rgba(0,0,0,0.7);
+}
+p2{
+    color:aliceblue;
+    text-align: left;
+    font-size: 45px;
+    background-color: rgba(0,0,0,0.7);
+}
+a{
+    font-size: 50px;
+    background-color: rgba(0,0,0,0.7);
+}

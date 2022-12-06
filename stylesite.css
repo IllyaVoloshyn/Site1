@@ -1,0 +1,46 @@
+body{
+  background-image: url(1bg.jpg);
+  background-size: 100%;
+}
+h1{
+  color:aliceblue;
+  text-align: center;
+  font-size: 60px;
+  background-color: rgba(0,0,0,0.7);
+}
+h2{
+  color:aliceblue;
+  text-align: left;
+  font-size: 60px;
+  background-color: rgba(0,0,0,0.7);
+}
+p1{
+  color:aliceblue;
+  text-align: left;
+  font-size: 30px;
+  background-color: rgba(0,0,0,0.7);
+}
+p2{
+  color:aliceblue;
+  text-align: left;
+  font-size: 30px;
+  background-color: rgba(0,0,0,0.7);
+}
+p3{
+  color:aliceblue;
+  text-align: left;
+  font-size: 30px;
+  background-color: rgba(0,0,0,0.7);
+}
+p4{
+  color:aliceblue;
+  text-align: left;
+  font-size: 30px;
+  background-color: rgba(0,0,0,0.7);
+}
+p5{
+  color:aliceblue;
+  text-align: left;
+  font-size: 30px;
+  background-color: rgba(0,0,0,0.7);
+}
